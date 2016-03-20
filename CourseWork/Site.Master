@@ -1,0 +1,130 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="CourseWork.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %>- My ASP.NET Application</title>
+    <asp:PlaceHolder runat="server">     
+          <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>  
+    <webopt:BundleReference runat="server" Path="~/Content/css" /> 
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+    <style type="text/css">
+        .auto-style5 {
+            width: 51px;
+        }
+        .auto-style6 {
+            width: 211px;
+            height: 143px;
+        }
+        .auto-style7 {
+            color: #009999;
+        }
+        .auto-style8 {
+            color: #336699;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title">
+                    &nbsp;</p>
+                <p class="site-title">
+                    &nbsp; <span class="auto-style7">
+                    <img class="auto-style6" src="Images/The-Budding-Lotus_Icon_crop.png" /></span><span class="auto-style8">White Lotus Yoga Studio Center</span></p>
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    <table style="width: 100%; height: 40px;">
+                        <tr>
+                            <td class="auto-style5"></td>
+                            <td>
+                    <asp:Label ID="usernameLabel" runat="server"></asp:Label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style5">&nbsp;</td>
+                            <td>
+                    <asp:LoginView id="LoginView" runat="server" >
+                        <AnonymousTemplate>
+                            <ul>
+                                <li><a id="registerLink" runat="server" href="~/Register" visible="True">Register</a></li>
+                                <li><a id="loginLink" runat="server" href="~/Login">Log in</a></li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <p>
+                                Hello, <a runat="server" class="username" href="~/Account/Manage" title="Manage your account">
+                                    <asp:LoginName runat="server" CssClass="username" /></a>!
+                                <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" />
+                            </p>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style5"></td>
+                            <td>
+                                </td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style5">&nbsp;</td>
+                            <td>
+                    <asp:LoginView id="LoginView1" runat="server" >
+                        <AnonymousTemplate>
+                            <ul>
+                                <li><a id="logoutLink" runat="server"  href="~/LogOut">Log out</a></li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <p>
+                                Hello, <a runat="server" class="username" href="~/Account/Manage" title="Manage your account">
+                                    <asp:LoginName runat="server" CssClass="username" /></a>!
+                                <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" />
+                            </p>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                        </tr>
+                        </table>
+                </section>
+                <nav>
+                    <ul id="menu">
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/About">About</a></li>
+                        <li><a id="TimetableLink" runat="server" href="~/ClientTimetable">Sessions</a></li>
+                        <li><a runat="server" href="~/QandA">Q&A</a></li>
+                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div id="body">
+        <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" >
+            <p>
+                &nbsp;</p>
+        </asp:ContentPlaceHolder>
+        <section class="content-wrapper main-content clear-fix">
+            <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+        </section>
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>&copy; <%: DateTime.Now.Year %>- My ASP.NET Application</p>
+            </div>
+        </div>
+    </footer>
+    </form>
+</body>
+</html>

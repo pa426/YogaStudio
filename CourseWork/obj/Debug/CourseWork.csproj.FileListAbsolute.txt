@@ -1,0 +1,62 @@
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\CourseWork.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\CourseWork.pdb
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\Antlr3.Runtime.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\AspNet.ScriptManager.jQuery.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.AspNet.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.Core.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.OAuth.Consumer.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.OAuth.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.OpenId.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\Microsoft.ScriptManager.WebForms.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\System.Web.Optimization.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\System.Web.Providers.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\WebGrease.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.Core.xml
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.OAuth.xml
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.OAuth.Consumer.xml
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.OpenId.xml
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\DotNetOpenAuth.AspNet.xml
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\obj\Debug\CourseWork.dll
+I:\COMP 1551 Applications and Web Development\Coursework\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\CourseWork.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\CourseWork.pdb
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\Antlr3.Runtime.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.Core.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\System.Web.Optimization.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\System.Web.Providers.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\WebGrease.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.Core.xml
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\obj\Debug\CourseWork.dll
+C:\Users\Alexandru\Desktop\presentation\CourseWorkC#\CourseWork\obj\Debug\CourseWork.pdb
